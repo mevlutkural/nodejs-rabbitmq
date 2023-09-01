@@ -3,7 +3,8 @@
 ## Sources
 
 Sources that used this repository:
-- [https://www.youtube.com/watch?v=wZbX_Qh8zbI&list=PL_f2F0Oyaj48lF-6Wr2d95dAMaye8RX0d&index=3](URL) - https://www.youtube.com/watch?v=wZbX_Qh8zbI&list=PL_f2F0Oyaj48lF-6Wr2d95dAMaye8RX0d&index=3
+- [https://www.youtube.com/watch?v=wZbX_Qh8zbI&list=PL_f2F0Oyaj48lF-6Wr2d95dAMaye8RX0d&index=3](URL) - 1 Videoda #RabbitMQ Eğitimi | RabbitMQ Nedir? RabbitMQ Neden Kullanılır? RabbitMQ Nasıl Kurulur?
+
 
 - 
 An example that shows how to use rabbitmq with nodejs.
